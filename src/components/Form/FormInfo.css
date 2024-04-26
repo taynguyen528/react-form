@@ -1,0 +1,32 @@
+.title {
+    background: #32373d;
+    color: #fff;
+    padding: 20px 0 20px 10px;
+    border-radius: 4px;
+}
+
+.error {
+    margin-top: 5px;
+    font-size: 14px;
+    color: red;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.search > div {
+    display: flex;
+    flex: 1;
+}
+
+.form-control {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.btn {
+    min-width: 100px;
+}
